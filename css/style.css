@@ -23,9 +23,6 @@
     z-index: 1;
 }
 
-
-
-
 /* CSS Transform Align Navbar Brand Text ... This could also be achieved with table / table-cells */
 .navbar-alignit .navbar-header {
 	  -webkit-transform-style: preserve-3d;
@@ -53,4 +50,14 @@
 
 body {
   font-family: "Lato";
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
 }
